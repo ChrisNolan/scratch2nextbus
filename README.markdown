@@ -10,7 +10,7 @@ With Scratch2Nextbus you can write a [Scratch 1.4](http://scratch.mit.edu) progr
 
 ## Installation
 
-- currently depends on my local fork of the nextbus gem so isn't usable by anyone else until I do something about that...
+- currently depends on my local [fork](https://github.com/ChrisNolan/nextbus) of the nextbus gem so isn't usable by anyone else until I do something about that...
 
 ## Getting Started
 
@@ -30,5 +30,7 @@ With Scratch2Nextbus you can write a [Scratch 1.4](http://scratch.mit.edu) progr
 
 ## Resources & References
 
+- [NextBusXMLFeed Documentation](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)
 - [Discuss scratch2nextbus on Scratch Forums](http://scratch.mit.edu/discuss/topic/30696/)
 - [Scratch's Remote Sensor Control Protocol](http://wiki.scratch.mit.edu/wiki/Remote_Sensors_Protocol) (outdated in 2.0)
+- [City of Toronto's Open Data Next Vehicle Arrival (NVAS) page](https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=4427790e6f21d210VgnVCM1000003dd60f89RCRD)
