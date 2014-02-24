@@ -1,11 +1,12 @@
-# Scratch2Nextbus
+Scratch2Nextbus
+===============
 
 With Scratch2Nextbus you can write a [Scratch 1.4](http://scratch.mit.edu) program that knows about your City's transit system via the [NextBus](http://www.nextbus.com/) API
 
 ## Requirements
 
 - [Scratch 1.4](http://scratch.mit.edu/scratch_1.4/) - Programing environment
-- A City where [Nextbus](http://cts.cubic.com/en-us/solutions/realtimepassengerinformation/nextbus,inc/hownextbusworks.aspx) is affiliated with an Transit Agency
+- A City where [Nextbus](http://cts.cubic.com/en-us/solutions/realtimepassengerinformation/nextbus,inc/hownextbusworks.aspx) is affiliated with a Transit Agency
 
 ## Installation
 
@@ -16,7 +17,7 @@ With Scratch2Nextbus you can write a [Scratch 1.4](http://scratch.mit.edu) progr
 - You need to set a route_id global variable in your scratch program
 - broadcast "route_config"
 - To deal with stops on the route, see the [draw stops example](./examples/screenshots/draw_stops_1.gif) for now to use the add_to_stops, clear_stops, and draw_stops broadcasts
-- To update the vehicle location sensors, broadcast "vehicle_locations" and have something recieve "move_buses" as demonstrated in the ![Vehicle Locations](./examples/screenshots/move_buses_1.gif) screenshot.
+- To update the vehicle location sensors, broadcast "vehicle_locations" and have something recieve "move_buses" as demonstrated in the [Vehicle Locations](./examples/screenshots/move_buses_1.gif) screenshot.
 
 ## Examples
 
